@@ -1,6 +1,6 @@
 # EDGE-DETECTION
-# Developed By:Daniel C
-# Reg no:212223240023
+# Developed By:JEECIKASRINA M
+# Reg no:2122232100015
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -24,9 +24,9 @@ Using Sobel operator from cv2,detect the edges of the image.
 
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 # Program:
-Developed By:Daniel C
+Developed By:JEECIKASRINA M
 
-Reg no:212223240023
+Reg no:212223100015
 ```
 from google.colab import files
 import cv2
